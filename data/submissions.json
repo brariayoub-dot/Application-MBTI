@@ -1,0 +1,65 @@
+[
+  {
+    "id": "sub_1792753309946_sqzj2",
+    "nom": "Brari",
+    "prenom": "Ayoub",
+    "email": "brariayoub@gmail.com",
+    "mbtiType": "INTJ",
+    "title": "L'Architecte Stratège",
+    "scores": {
+      "E": 25,
+      "I": 75,
+      "S": 20,
+      "N": 80,
+      "T": 85,
+      "F": 15,
+      "J": 80,
+      "P": 20
+    },
+    "timeSpentSeconds": 270,
+    "submittedAt": "2026-10-23T11:01:49.946Z",
+    "notes": ""
+  },
+  {
+    "id": "seed-1",
+    "nom": "Dupont",
+    "prenom": "Claire",
+    "email": "claire.dupont@example.com",
+    "mbtiType": "INFJ",
+    "title": "L'Avocat Idéaliste",
+    "scores": {
+      "E": 30,
+      "I": 70,
+      "S": 25,
+      "N": 75,
+      "T": 40,
+      "F": 60,
+      "J": 80,
+      "P": 20
+    },
+    "timeSpentSeconds": 245,
+    "submittedAt": "2026-10-22T11:01:45.835Z",
+    "notes": "Test passé dans le cadre de l'atelier d'équipe."
+  },
+  {
+    "id": "seed-2",
+    "nom": "Benali",
+    "prenom": "Karim",
+    "email": "karim.benali@example.com",
+    "mbtiType": "ENTJ",
+    "title": "Le Commandant Visionnaire",
+    "scores": {
+      "E": 85,
+      "I": 15,
+      "S": 20,
+      "N": 80,
+      "T": 90,
+      "F": 10,
+      "J": 75,
+      "P": 25
+    },
+    "timeSpentSeconds": 210,
+    "submittedAt": "2026-10-23T05:01:45.835Z",
+    "notes": "Profil orienté stratégie & leadership."
+  }
+]

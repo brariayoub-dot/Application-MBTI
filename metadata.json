@@ -1,0 +1,6 @@
+{
+  "name": "MBTI Test Pro - Test de Personnalité en 5 minutes",
+  "description": "Découvrez votre profil psychologique MBTI complet en 5 minutes : points forts, axes de développement, personnalités célèbres associées et suivi des participants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
